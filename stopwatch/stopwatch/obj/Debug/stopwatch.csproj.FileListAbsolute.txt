@@ -1,0 +1,6 @@
+C:\Users\glab\Desktop\test\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\glab\Desktop\test\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\glab\Desktop\test\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\glab\Desktop\test\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+F:\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+F:\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
