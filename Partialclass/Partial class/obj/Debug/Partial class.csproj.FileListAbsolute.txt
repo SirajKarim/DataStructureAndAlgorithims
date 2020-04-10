@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\bin\Debug\Partial class.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\bin\Debug\Partial class.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\bin\Debug\Partial class.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\obj\Debug\Partial class.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\obj\Debug\Partial class.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\Partial class\Partial class\obj\Debug\Partial class.pdb
