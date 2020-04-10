@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<university xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stid>0</stid>
+  <stLst>
+    <Student>
+      <stid>61917</stid>
+      <stName>Muhammad Siraj</stName>
+      <stFatherName>AbdulKarim</stFatherName>
+      <stemail>sirajkarim61917@gmail.com</stemail>
+    </Student>
+    <Student>
+      <stid>61918</stid>
+      <stName>Muhammad Moid</stName>
+      <stFatherName>Shamsuddin</stFatherName>
+      <stemail>moidshams61918@gmail.com</stemail>
+    </Student>
+  </stLst>
+  <total>0</total>
+</university>

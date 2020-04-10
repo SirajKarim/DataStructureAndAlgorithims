@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\bin\Debug\xmlserialization.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\bin\Debug\xmlserialization.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\bin\Debug\xmlserialization.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\obj\Debug\xmlserialization.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\obj\Debug\xmlserialization.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\xmlserialization\xmlserialization\obj\Debug\xmlserialization.pdb
