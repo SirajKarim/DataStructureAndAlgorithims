@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\bin\Debug\GenericDatatype.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\bin\Debug\GenericDatatype.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\bin\Debug\GenericDatatype.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\obj\Debug\GenericDatatype.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\obj\Debug\GenericDatatype.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\GenericDatatype\GenericDatatype\obj\Debug\GenericDatatype.pdb
