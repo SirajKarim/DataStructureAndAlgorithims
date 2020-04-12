@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\bin\Debug\DSlab7 3D Array.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\bin\Debug\DSlab7 3D Array.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\bin\Debug\DSlab7 3D Array.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\obj\Debug\DSlab7 3D Array.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\obj\Debug\DSlab7 3D Array.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSlab7 3D Array\DSlab7 3D Array\obj\Debug\DSlab7 3D Array.csprojResolveAssemblyReference.cache
