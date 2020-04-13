@@ -1,0 +1,7 @@
+C:\Users\glab\Documents\Visual Studio 2012\Projects\ConsoleApplication75\ConsoleApplication75\bin\Debug\ConsoleApplication75.exe
+C:\Users\glab\Documents\Visual Studio 2012\Projects\ConsoleApplication75\ConsoleApplication75\bin\Debug\ConsoleApplication75.pdb
+C:\Users\glab\Documents\Visual Studio 2012\Projects\ConsoleApplication75\ConsoleApplication75\obj\Debug\ConsoleApplication75.csprojResolveAssemblyReference.cache
+C:\Users\glab\Documents\Visual Studio 2012\Projects\ConsoleApplication75\ConsoleApplication75\obj\Debug\ConsoleApplication75.exe
+C:\Users\glab\Documents\Visual Studio 2012\Projects\ConsoleApplication75\ConsoleApplication75\obj\Debug\ConsoleApplication75.pdb
+F:\ConsoleApplication75\ConsoleApplication75\obj\Debug\ConsoleApplication75.exe
+F:\ConsoleApplication75\ConsoleApplication75\obj\Debug\ConsoleApplication75.pdb
