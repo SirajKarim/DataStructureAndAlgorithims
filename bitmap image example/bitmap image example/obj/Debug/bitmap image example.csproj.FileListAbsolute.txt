@@ -1,0 +1,8 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\bin\Debug\bitmap image example.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\bin\Debug\bitmap image example.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\bin\Debug\bitmap image example.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\obj\Debug\bitmap_image_example.Form1.resources
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\obj\Debug\bitmap_image_example.Properties.Resources.resources
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\obj\Debug\bitmap image example.csproj.GenerateResource.Cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\obj\Debug\bitmap image example.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\bitmap image example\bitmap image example\obj\Debug\bitmap image example.pdb
