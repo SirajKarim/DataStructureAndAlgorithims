@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\bin\Debug\DSMulitiDimensionArray.exe.config
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\bin\Debug\DSMulitiDimensionArray.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\bin\Debug\DSMulitiDimensionArray.pdb
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\obj\Debug\DSMulitiDimensionArray.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\obj\Debug\DSMulitiDimensionArray.exe
+C:\Users\Muhammad Siraj\Documents\DS Spring 18\LabWork\DSMulitiDimensionArray\DSMulitiDimensionArray\obj\Debug\DSMulitiDimensionArray.pdb
